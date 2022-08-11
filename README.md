@@ -17,6 +17,7 @@ F / left click = flag a tile
 
 C / E = clear a tile (mine all the unflagged tiles around it if the number of flags around it matches the number on the tile. Therefore only works on number tiles)
 
+last thing -- run the "Minesweeper" file; that's the "Main", but I renamed it so that the window is called Minesweeper
 
 anyways, I'm the only one who's ever going to read this, but I guess I can always somehow find my way back to this page
 if some improbable series of events causes me to forget how I coded the game, no longer be able to read the code, and 
